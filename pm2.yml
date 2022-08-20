@@ -1,0 +1,4 @@
+apps:
+  - name: Fordpass-server
+    script: fordpass.js
+    instances: 1
